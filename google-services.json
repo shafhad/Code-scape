@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876819062806",
+    "project_id": "code-scapes",
+    "storage_bucket": "code-scapes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876819062806:android:7d5cb40236a30730ac1537",
+        "android_client_info": {
+          "package_name": "com.code.codescapes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876819062806-g21dahqickq3evj9ncg2cm7aalui827a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMpcCSJT8MdBYdGbfsmg-W-hU1b-WZQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876819062806-g21dahqickq3evj9ncg2cm7aalui827a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
